@@ -12,11 +12,19 @@ python -m pip install selenium
 
 ## Run It!
 
-Once you have successfully installed python and the required packages, you can open the kahoot_flood.py file with python and run the program!
+Once you have successfully installed python, the required packages, and all of the files in this repository, you can open the kahoot_flood.py file with python and run the program!
 
 ## Contributing
 
 Please feel free to make a new issue in the issue tab if you have any questions or comments. 
+
+## FAQ
+
+Q.) What is phantomjs? 
+A.) <a href = "http://phantomjs.org/">PhantomJS</a> is a headless browser, used for programs like this. Headless means that you don't actually see the browser, like you will with Google Chrome or Firefox, but it's still there. It is included in the repository for your convenience.
+
+Q.) Can you make the program answer as well?
+A.) That is something that I am currently working on. Check back later for more updates.
 
 ## Acknowledgments
 
