@@ -20,10 +20,12 @@ Please feel free to make a new issue in the issue tab if you have any questions 
 
 ## FAQ
 
-Q.) What is phantomjs? 
+Q.) What is phantomjs?
+<br>
 A.) <a href = "http://phantomjs.org/">PhantomJS</a> is a headless browser, used for programs like this. Headless means that you don't actually see the browser, like you will with Google Chrome or Firefox, but it's still there. It is included in the repository for your convenience.
 
 Q.) Can you make the program answer as well?
+<br>
 A.) That is something that I am currently working on. Check back later for more updates.
 
 ## Acknowledgments
